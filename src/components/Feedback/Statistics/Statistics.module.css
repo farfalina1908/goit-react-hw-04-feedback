@@ -1,0 +1,14 @@
+.statList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .item {
+    color: black;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
